@@ -9,7 +9,7 @@
  -  In Board Create Multiple Columns Like Backlog , Todo , In Progress , Testing , and Done
  - Edit Column (change color , change title , add Description ,  add Comment , etc) and delete Column.
  -  Add Member in Board (Multiple user access single board just like work space )
- -  And Much More Please Explore and give suggestion me in linkedin (https://in.linkedin.com/in/mohit-sojitra)
+ -  
  <br/>
  
  ## Technology Which I Used
@@ -46,7 +46,7 @@
  2. `yarn`
  3. `yarn start`
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+
 
 ## Request
 
